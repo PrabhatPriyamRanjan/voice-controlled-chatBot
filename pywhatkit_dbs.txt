@@ -1,0 +1,34 @@
+--------------------
+Date: 7:6:2021
+Time: 15:32
+Phone number: +917992240945
+Message: None
+This is Alexa, this is for checking whatsapp functionality
+--------------------
+Date: 7:6:2021
+Time: 15:35
+Phone number: +917992240945
+Message: hello how are you
+This is Alexa, this is for checking whatsapp functionality
+--------------------
+Date: 7:6:2021
+Time: 15:40
+Phone number: +919901911441
+Message: This is my message:hello how are you
+This is Alexa, this is for checking whatsapp functionality 
+ I am trying to integrate whatsapp to the Alexa
+--------------------
+Date: 7:6:2021
+Time: 15:42
+Phone number: +917992240945
+Message: This is my message: hello babu how are you
+This is Alexa, this is for checking whatsapp functionality 
+ I am trying to integrate whatsapp to the Alexa
+--------------------
+Date: 25:6:2021
+Time: 0:3
+Phone number: +919771831206
+Message: This is my message: hello mate how are you are you doing fine
+This is Alexa, this is for checking whatsapp functionality 
+ I am trying to integrate whatsapp to the Alexa
+--------------------
